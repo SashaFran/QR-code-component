@@ -1,7 +1,9 @@
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge]()
-[app](https://main--wondrous-fox-b6cdf4.netlify.app/)
+
+
+**[Check the app here](https://main--wondrous-fox-b6cdf4.netlify.app/)**
 And my [profile](https://www.frontendmentor.io/profile/SashaFran) in frontednmentor.
 
 ## Welcome! 👋
